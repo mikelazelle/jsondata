@@ -1,0 +1,404 @@
+{"id": "1",
+        "companyName": "TEST THIS",
+        "companyImage":
+          "https://secure.gravatar.com/avatar/ffa282aab8e61c8d5ba7fd136f52e471",
+        "accountNumber": "864591233",
+        "customerType": "Bookkeeping",
+        "isNonProfit": "No",
+        "employmentNumber": "123454878555",
+        "salesTaxNumber": "4556456456456",
+      "salesTaxPercentage": "10%",
+      "contacts": ContactsViewModel[
+          {
+            "id": "1",
+            "firstName": "Hello",
+            "lastName": "LLLLLLL",
+            "email": "mikelazelle@msn.com",
+        "contactType": "owner",
+        "addresses": DgAddressViewModel[
+              {
+                "id": "1",
+                "address": "888 Elmdale st",
+                "address1": "",
+                "addressType": "work",
+                 
+                  "city": "Simi",
+                  "state": "CA",
+                  "postalCode": "93065"
+                
+              }
+        ],
+        "phones": PhoneViewModel[]
+          }
+        ],
+        "entityType": "Corporation",
+        "phones": [
+          {
+            "id": "1",
+            "number": "888-123-1234",
+            "phoneType": "work"
+          },
+          {
+            "id": "2",
+            "number": "818-123-1234",
+            "phoneType": "home"
+          },
+          { "id": "3", "number": "818-223-1236", "phoneType": "cell" }
+        ],
+        "addresses": [
+          {
+            "id": "1",
+            "address": "888 Elmdale st",
+            "address1": "",
+            "addressType": "work",
+           
+              "city": "Simi",
+              "state": "CA",
+              "postalCode": "93065"
+             
+          },
+          {
+            "id": "2",
+            "address": "818 Elmore st",
+            "address1": "",
+            "addressType": "home",
+           
+              "city": "Simi",
+              "state": "CA",
+              "postalCode": "93065"
+            
+          },
+          {
+            "id": "3",
+            "address": "818 Cochran st",
+            "address1": "",
+            "addressType": "mail",
+            
+              "city": "Simi",
+              "state": "CA",
+              "postalCode": "93065"
+           
+          }
+        ],
+        "tasks": [
+          {
+            "id": "1",
+            "description": "TEST TASK",
+            "subject": "",
+            "assignBy": null,
+            "assignTo": null,
+            "isBillableTask": "false",
+            "assignedDate": null,
+            "createDate": null,
+            "completedDate": null,
+            "taskStatus": "",
+            "notes": ""
+          }
+        ],
+        "taxTasks": [
+          {
+            "id": "1",
+            "description": "TEST TASK",
+            "subject": "",
+            "assignBy": null,
+            "assignTo": null,
+            "isBillableTask": "false",
+            "assignedDate": null,
+            "createDate": null,
+            "completedDate": null,
+            "taskStatus": "",
+            "notes": ""
+          },
+          {
+            "id": "1",
+            "description": "TEST TASK",
+            "subject": "",
+            "assignBy": null,
+            "assignTo": null,
+            "isBillableTask": "false",
+            "assignedDate": null,
+            "createDate": null,
+            "completedDate": null,
+            "taskStatus": "",
+            "notes": ""
+          },
+          {
+            "id": "1",
+            "description": "TEST TASK",
+            "subject": "",
+            "assignBy": null,
+            assignTo: null,
+            isBillableTask: "false",
+            assignedDate: null,
+            createDate: null,
+            completedDate: null,
+            taskStatus: "",
+            notes: ""
+          }
+        ]
+      },
+      {
+        id: "2",
+        companyName: "Pyron",
+        companyImage:
+          "https://secure.gravatar.com/avatar/ffa282aab8e61c8d5ba7fd136f52e471",
+        accountNumber: "94454456",
+        customerType: "Bookkeeping",
+        isNonProfit: "No",
+        employmentNumber: "123454878555",
+        salesTaxNumber: "4556456456456",
+        salesTaxPercentage: "10%",
+        contacts: [
+          {
+            id: "1",
+            firstName: "Hello",
+            lastName: "LLLLLLL",
+            email: "mikelazelle@msn.com",
+            contactType: "owner",
+            addresses: [
+              {
+                id: "1",
+                address: "888 Elmdale st",
+                address1: "",
+                addressType: "work",
+                 
+                  city: "Simi",
+                  state: "CA",
+                  postalCode: "93065"
+                
+              }
+            ],
+            phones: []
+          }
+        ],
+        entityType: "Corporation",
+        phones: [
+          { id: "1", number: "888-123-1234", phoneType: "work" },
+          { id: "2", number: "818-123-1234", phoneType: "home" },
+          { id: "3", number: "818-223-1236", phoneType: "cell" }
+        ],
+        addresses: [
+          {
+            id: "1",
+            address: "888 Elmdale st",
+            address1: "",
+            addressType: "work",
+             
+              city: "Simi",
+              state: "CA",
+              postalCode: "93065"
+             
+          },
+          {
+            id: "2",
+            address: "818 Elmore st",
+            address1: "",
+            addressType: "home",
+            
+              city: "Simi",
+              state: "CA",
+              postalCode: "93065"
+            
+          },
+          {
+            id: "3",
+            address: "818 Cochran st",
+            address1: "",
+            addressType: "mail",
+            
+              city: "Simi",
+              state: "CA",
+              postalCode: "93065"
+             
+          }
+        ],
+        tasks: [
+          {
+            id: "1",
+            description: "TEST TASK",
+            subject: "",
+            assignBy: null,
+            assignTo: null,
+            isBillableTask: "false",
+            assignedDate: null,
+            createDate: null,
+            completedDate: null,
+            taskStatus: "",
+            notes: ""
+          }
+        ],
+        taxTasks: [
+          {
+            id: "1",
+            description: "",
+            subject: "",
+            createDate: "",
+            isBillableTask: "",
+            assignTo: "",
+            assignBy: "",
+            assignedDate: "",
+            completedDate: "",
+            taskStatus: "",
+            notes: ""
+          },
+          {
+            id: "2",
+            description: "",
+            subject: "",
+            createDate: "",
+            isBillableTask: "",
+            assignTo: "",
+            assignBy: "",
+            assignedDate: "",
+            completedDate: "",
+            taskStatus: "",
+            notes: ""
+          },
+          {
+            id: "3",
+            description: "",
+            subject: "",
+            createDate: "",
+            isBillableTask: "",
+            assignTo: "",
+            assignBy: "",
+            assignedDate: "",
+            completedDate: "",
+            taskStatus: "",
+            notes: ""
+          }
+        ]
+      },
+      {
+        id: "3",
+        companyName: "SomeCompany",
+        companyImage:
+          "https://secure.gravatar.com/avatar/ffa282aab8e61c8d5ba7fd136f52e471",
+        accountNumber: "123456464",
+        customerType: "Bookkeeping",
+        isNonProfit: "No",
+        employmentNumber: "123454878555",
+        salesTaxNumber: "4556456456456",
+        salesTaxPercentage: "10%",
+        contacts: [
+          {
+            id: "1",
+            firstName: "Hello",
+            lastName: "LLLLLLL",
+            email: "mikelazelle@msn.com",
+            contactType: "owner",
+            addresses: [
+              {
+                id: "1",
+                address: "888 Elmdale st",
+                address1: "",
+                addressType: "work",
+                
+                  city: "Simi",
+                  state: "CA",
+                  postalCode: "93065"
+                
+              }
+            ],
+            phones: []
+          }
+        ],
+        entityType: "Corporation",
+        phones: [
+          { id: "1", number: "888-123-1234", phoneType: "work" },
+          { id: "2", number: "818-123-1234", phoneType: "home" },
+          { id: "3", number: "818-223-1236", phoneType: "cell" }
+        ],
+        addresses: [
+          {
+            id: "1",
+            address: "888 Elmdale st",
+            address1: "",
+            addressType: "work",
+            
+              city: "Simi",
+              state: "CA",
+              postalCode: "93065"
+            
+          },
+          {
+            id: "2",
+            address: "818 Elmore st",
+            address1: "",
+            addressType: "home",
+           
+              city: "Simi",
+              state: "CA",
+              postalCode: "93065"
+             
+          },
+          {
+            id: "3",
+            address: "818 Cochran st",
+            address1: "",
+            addressType: "mail",
+           
+              city: "Simi",
+              state: "CA",
+              postalCode: "93065"
+            
+          }
+        ],
+        tasks: [
+          {
+            id: "1",
+            description: "TEST TASK",
+            subject: "",
+            assignBy: null,
+            assignTo: null,
+            isBillableTask: "false",
+            assignedDate: null,
+            createDate: null,
+            completedDate: null,
+            taskStatus: "",
+            notes: ""
+          }
+        ],
+        taxTasks: [
+          {
+            id: "1",
+            description: "",
+            subject: "",
+            createDate: "",
+            isBillableTask: "",
+            assignTo: "",
+            assignBy: "",
+            assignedDate: "",
+            completedDate: "",
+            taskStatus: "",
+            notes: ""
+          },
+          {
+            id: "2",
+            description: "",
+            subject: "",
+            createDate: "",
+            isBillableTask: "",
+            assignTo: "",
+            assignBy: "",
+            assignedDate: "",
+            completedDate: "",
+            taskStatus: "",
+            notes: ""
+          },
+          {
+            id: "3",
+            description: "",
+            subject: "",
+            createDate: "",
+            isBillableTask: "",
+            assignTo: "",
+            assignBy: "",
+            assignedDate: "",
+            completedDate: "",
+            taskStatus: "",
+            notes: ""
+          }
+        ]
+      }
+    ];
