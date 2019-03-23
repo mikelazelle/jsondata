@@ -1,4 +1,4 @@
-{"id": "1",
+[{"id": "1",
         "companyName": "TEST THIS",
         "companyImage":
           "https://secure.gravatar.com/avatar/ffa282aab8e61c8d5ba7fd136f52e471",
@@ -15,7 +15,7 @@
             "lastName": "LLLLLLL",
             "email": "mikelazelle@msn.com",
         "contactType": "owner",
-        "addresses": DgAddressViewModel[
+        "addresses": [
               {
                 "id": "1",
                 "address": "888 Elmdale st",
@@ -60,7 +60,7 @@
           {
             "id": "2",
             "address": "818 Elmore st",
-            "address1": "",
+            "address1": null,
             "addressType": "home",
            
               "city": "Simi",
@@ -71,7 +71,7 @@
           {
             "id": "3",
             "address": "818 Cochran st",
-            "address1": "",
+            "address1": null,
             "addressType": "mail",
             
               "city": "Simi",
@@ -110,7 +110,7 @@
             "notes": ""
           },
           {
-            "id": "1",
+            "id": "2",
             "description": "TEST TASK",
             "subject": "",
             "assignBy": null,
@@ -123,7 +123,7 @@
             "notes": ""
           },
           {
-            "id": "1",
+            "id": "3",
             "description": "TEST TASK",
             "subject": "",
             "assignBy": null,
@@ -159,9 +159,8 @@
               {
                 "id": "1",
                 "address": "888 Elmdale st",
-                "address1": "",
-                "addressType": "work",
-                 
+                "address1": null,
+                "addressType": "work",                 
                   "city": "Simi",
                   "state": "CA",
                   "postalCode": "93065"
@@ -182,8 +181,7 @@
             "id": "1",
             "address": "888 Elmdale st",
             "address1": "",
-            "addressType": "work",
-             
+            "addressType": "work",             
               "city": "Simi",
               "state": "CA",
               "postalCode": "93065"
@@ -192,9 +190,8 @@
           {
             "id": "2",
             "address": "818 Elmore st",
-            "address1: "",
-            "addressType": "home",
-            
+            "address1": "",
+            "addressType": "home",            
               "city": "Simi",
               "state": "CA",
               "postalCode": "93065"
@@ -204,12 +201,10 @@
             "id": "3",
             "address": "818 Cochran st",
             "address1": "",
-            "addressType": "mail",
-            
+            "addressType": "mail",            
               "city": "Simi",
               "state": "CA",
-              "postalCode": "93065"
-             
+              "postalCode": "93065"             
           }
         ],
         "tasks": [
@@ -291,13 +286,11 @@
               {
                 "id": "1",
                 "address": "888 Elmdale st",
-                "address1": "",
-                "addressType": "work",
-                
+                "address1": null,
+                "addressType": "work",                
                   "city": "Simi",
                   "state": "CA",
-                  "postalCode": "93065"
-                
+                  "postalCode": "93065"                
               }
             ],
             "phones": []
@@ -313,35 +306,29 @@
           {
             "id": "1",
             "address": "888 Elmdale st",
-            "address1": "",
-            "addressType": "work",
-            
+            "address1": null,
+            "addressType": "work",            
               "city": "Simi",
               "state": "CA",
-              "postalCode": "93065"
-            
+              "postalCode": "93065"            
           },
           {
             "id": "2",
             "address": "818 Elmore st",
-            "address1": "",
-            "addressType": "home",
-           
+            "address1": null,
+            "addressType": "home",           
               "city": "Simi",
               "state": "CA",
-              "postalCode": "93065"
-             
+              "postalCode": "93065"             
           },
           {
             "id": "3",
             "address": "818 Cochran st",
-            "address1": "",
-            "addressType": "mail",
-           
+            "address1": null,
+            "addressType": "mail",           
               "city": "Simi",
               "state": "CA",
-              "postalCode": "93065"
-            
+              "postalCode": "93065"            
           }
         ],
         "tasks": [
@@ -401,5 +388,4 @@
           }
         ]
       }
-    ];
-}
+    ]
