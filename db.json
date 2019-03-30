@@ -80,7 +80,7 @@
             "assignedDate": null,
             "createDate": null,
             "completedDate": null,
-            "taskStatus": "",
+            "taskStatus": "New",
             "notes": ""
           }
         ],
@@ -95,7 +95,7 @@
             "assignedDate": null,
             "createDate": null,
             "completedDate": null,
-            "taskStatus": "",
+            "taskStatus": "New",
             "notes": ""
           },
           {
@@ -108,7 +108,7 @@
             "assignedDate": null,
             "createDate": null,
             "completedDate": null,
-            "taskStatus": "",
+            "taskStatus": "New",
             "notes": ""
           },
           {
@@ -121,7 +121,7 @@
             "assignedDate": null,
             "createDate": null,
             "completedDate": null,
-            "taskStatus": "",
+            "taskStatus": "New",
             "notes": ""
           }
         ]
@@ -198,7 +198,7 @@
             "assignedDate": null,
             "createDate": null,
             "completedDate": null,
-            "taskStatus": "",
+            "taskStatus": "Completed",
             "notes": ""
           }
         ],
@@ -213,7 +213,7 @@
             "assignBy": "",
             "assignedDate": "",
             "completedDate": "",
-            "taskStatus": "",
+            "taskStatus": "Awaiting Customer",
             "notes": ""
           },
           {
@@ -226,7 +226,7 @@
             "assignBy": "",
             "assignedDate": "",
             "completedDate": "",
-            "taskStatus": "",
+            "taskStatus": "Pending Approval",
             "notes": ""
           },
           {
@@ -239,7 +239,7 @@
             "assignBy": "",
             "assignedDate": "",
             "completedDate": "",
-            "taskStatus": "",
+            "taskStatus": "Pending Customer Approval",
             "notes": ""
           }
         ]
@@ -313,7 +313,33 @@
             "assignedDate": null,
             "createDate": null,
             "completedDate": null,
-            "taskStatus": "",
+            "taskStatus": "New",
+            "notes": ""
+          },
+		  {
+            "id": "2",
+            "description": "TEST TASK",
+            "subject": "",
+            "assignBy": null,
+            "assignTo": null,
+            "isBillableTask": "false",
+            "assignedDate": null,
+            "createDate": null,
+            "completedDate": null,
+            "taskStatus": "New",
+            "notes": ""
+          },
+		  {
+            "id": "3",
+            "description": "TEST TASK",
+            "subject": "",
+            "assignBy": null,
+            "assignTo": null,
+            "isBillableTask": "false",
+            "assignedDate": null,
+            "createDate": null,
+            "completedDate": null,
+            "taskStatus": "New",
             "notes": ""
           }
         ],
@@ -328,7 +354,7 @@
             "assignBy": "",
             "assignedDate": "",
             "completedDate": "",
-            "taskStatus": "",
+            "taskStatus": "Completed",
             "notes": ""
           },
           {
@@ -341,7 +367,7 @@
             "assignBy": "",
             "assignedDate": "",
             "completedDate": "",
-            "taskStatus": "",
+            "taskStatus": "New",
             "notes": ""
           },
           {
@@ -354,7 +380,7 @@
             "assignBy": "",
             "assignedDate": "",
             "completedDate": "",
-            "taskStatus": "",
+            "taskStatus": "New",
             "notes": ""
           }
         ]
