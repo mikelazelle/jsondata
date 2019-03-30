@@ -133,7 +133,7 @@
           "https://secure.gravatar.com/avatar/ffa282aab8e61c8d5ba7fd136f52e471",
         "accountNumber": "94454456",
         "customerType": "Bookkeeping",
-        "isNonProfit": false,
+        "isNonProfit": true,
         "employmentNumber": "123454878555",
         "salesTaxNumber": "4556456456456",
         "salesTaxPercentage": "10%",
