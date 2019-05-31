@@ -1,16 +1,10 @@
-[
-	{
-		"id":"1",
-		"firstName":"Joe",
-		"lastName" : "Strong"
-	},
-	{
-		"id":"2",
-		"firstName":"Steve",
-		"lastName" : "Bauhmer"
-	},{
-		"id":"2",
-		"firstName":"Michael",
-		"lastName" : "Knight"
-	}
-]
+{ 
+"companyName": "ddd", 
+"contacts": [
+				{ 
+					"contactType": "", "firstName": "Michael", "lastName": "LaZelle", 
+					"addresses": [ {"addressType": "business", "address": "1464 Madera Rd N375","address2": "65465456456", "city": "Simi Valley","state": "California","zip": "93065"},	{ "addressType": "mail", "address": "2275 Birchfield st", "address2": "", "city": "Simi Valley", "state": "California", "zip": "93065" } ],
+					"phones": [ { "phoneType": "home", "number": "805-226-3399" }, { "phoneType": "work", "number": "909-363-3333" } ] 
+				} 
+			] 
+}
