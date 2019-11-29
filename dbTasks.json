@@ -18,7 +18,7 @@
             "subject": "TEST TASK",
             "assignBy": null,
             "assignTo": null,
-            "isBillableTask": "false",
+            "isBillableTask": "true",
             "assignedDate": null,
             "createDate": null,
             "completedDate": null,
